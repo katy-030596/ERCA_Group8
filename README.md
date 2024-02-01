@@ -11,4 +11,10 @@ https://data.giss.nasa.gov/cgi-bin/gistemp/stdata_show_v4.cgi?id=FRM00007591&ds=
 
 ## Run notebook online
 
+### Voila
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katy-030596/ERCA_Group8/HEAD?labpath=voila/render/Group8.ipynb)
+
+### JupyterLab
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katy-030596/ERCA_Group8/HEAD?labpath=Group8.ipynb)
